@@ -4,6 +4,7 @@
 struct ref;
 struct transport;
 struct strvec;
+struct transport_ls_refs_options;
 
 struct transport_vtable {
 	/**
